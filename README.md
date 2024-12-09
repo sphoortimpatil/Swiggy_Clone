@@ -39,8 +39,6 @@ Implemented tab widgets using a horizontal **UICollectionView** in between the s
 
 ---
 
-This app is optimized for smooth performance and seamless user experience while adhering to UIKit principles.
-
 ## 📸 Screenshots
 
 <div align="center">
@@ -64,7 +62,11 @@ Check out this video demonstration of the Swiggy Food Page Clone to see it in ac
 <div align="center">
 
 
-[Demo Video Link](https://github.com/user-attachments/assets/0644a28f-1591-4e61-bf89-139b4fdbf031)
+
+
+
+
+[Demo Video Link](https://github.com/user-attachments/assets/7cfa377b-4242-4a9b-9021-62d375a36484)
 
 </div>
 
@@ -76,3 +78,7 @@ In this video, you will see:
 - Top restaurants section.
 - Smooth navigation to the details page.
 - Pull-to-refresh functionality.
+
+---
+
+This app is optimized for smooth performance and seamless user experience while adhering to UIKit principles.
