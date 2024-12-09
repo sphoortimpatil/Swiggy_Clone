@@ -31,12 +31,10 @@ Implemented tab widgets using a horizontal **UICollectionView** in between the s
 ## 🛠️ UIKit Elements Used
 - **UIView:** For implementing the sticky header.
 - **UITableView:** For vertical scrolling with sections.
-- **UICollectionView:** For horizontal scrolling banners and restaurants.
+- **UICollectionView:** For horizontal scrolling banners and restaurants. It is also used to implement tab widgets.
 - **UINavigationController:** For navigating between the food page and details page.
 - **UIImageView & UILabel:** To display images and text content across the app.
 - **UIRefreshControl:** For pull-to-refresh functionality.  
-- **UITabBarController:** For tab navigation as a bonus feature.
-
 ---
 
 ## 📸 Screenshots
