@@ -40,3 +40,39 @@ Implemented tab widgets using a horizontal **UICollectionView** in between the s
 ---
 
 This app is optimized for smooth performance and seamless user experience while adhering to UIKit principles.
+
+## 📸 Screenshots
+
+<div align="center">
+  <img src="./Screenshots/Swiggy Food Page.png" alt="Swiggy Food Page Clone" width="400" />
+   <p>The sticky header stays at the top and provides easy access to search, address, and profile options.</p>
+  <p>Select a category through tab widgets to view relevant food sections dynamically.</p>
+  <p>Swipe through banners and restaurant collections with smooth horizontal scrolling.</p>
+  <img src="./Screenshots/Top Restarants.png" alt="Vertical Collection" width="400" />
+    <p><em>Explore Top Restaurants in a neatly organized vertical collection with multiple sections.</em></p>
+  <img src="./Screenshots/Pull To Refresh.png" alt="Details Page" width="400" />
+    <p><em>Refresh content effortlessly using the pull-to-refresh gesture.</em></p>
+    <img src="./Screenshots/Cell Details Page.png" alt="Details Page" width="400" />
+    <p><em>View detailed information about a restaurant or banner item in the details page.</em></p>
+</div>
+
+---
+
+## 🎥 Demo Video
+
+Check out this video demonstration of the Swiggy Food Page Clone to see it in action!
+<div align="center">
+
+
+[Demo Video Link](https://github.com/user-attachments/assets/0644a28f-1591-4e61-bf89-139b4fdbf031)
+
+</div>
+
+In this video, you will see:
+- The sticky header in action.
+- Vertical scrolling with multiple sections.
+- Horizontal collection to display banners similar to carousal.
+- Dynamic tab-based category filtering.
+- Top restaurants section.
+- Smooth navigation to the details page.
+- Pull-to-refresh functionality.
